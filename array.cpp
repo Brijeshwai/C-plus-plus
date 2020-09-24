@@ -1,17 +1,10 @@
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
+#include<iostream>
+
 using namespace std;
 
-
-int main() {
-    int N,i=0;
-    std::cin>>N;
-    int *A = new int[N];
-    while(std::cin>>A[i++]);
-    while(std::cout<<A[--N]<<' ' && N);
-    delete[] A;
-    return 0;
+int main()
+{
+	int a[5]={1,,6,5,0,3}
+	cout<<a[3];
+	return 0;
 }
