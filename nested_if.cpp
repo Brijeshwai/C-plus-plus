@@ -1,7 +1,10 @@
 #include<iostream>
 #include <math.h>
+
 using namespace std;
+
 int main(){
+	
 	int a,b,c,d,r1,r2;
 	cout<<"enter a,b,c";
 	cin>>a>>b>>c;
