@@ -21,17 +21,4 @@
 
 #### output
 
-
-#include<iostream>
-
-using namespace std;
-
-Int main()
-
-{
-
-Cout<<"I am beginner to this hactoberfest.!"<<endl;
-
-Return 0;
-
-}
+I am beginner to this hactoberfest.!
