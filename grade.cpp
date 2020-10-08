@@ -2,7 +2,9 @@
 #include<math.h>
 
 using namespace std;
+
 int main(){
+
 	int m1,m2,m3,total;
 	float average;
 	cout<<"enter the marks";
