@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include<math.h>
 void update(int *a,int *b) {
       int sum = *a + *b;
     int absDifference = *a - *b > 0 ? *a - *b : -(*a - *b);
