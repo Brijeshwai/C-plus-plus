@@ -1,3 +1,4 @@
+#include <bits/stdc++.h>
 #include <stdio.h>
 #include<math.h>
 void update(int *a,int *b) {
