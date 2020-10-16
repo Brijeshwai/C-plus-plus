@@ -8,6 +8,7 @@ int main()
 	int age;
 	cout<<"enter age::";
 	cin>>age;
+	
 	if(age<12 || age>50)
 	{
 		cout<<"Eligible"<<endl;
