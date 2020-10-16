@@ -9,8 +9,7 @@ using namespace std;
   int m,n,sum=0;
      
   
-   cout<<"enter a number:-";
-   
+   cout<<"enter a number:-";   
 
   cin>>n;
     
