@@ -1,8 +1,9 @@
 #include <iostream>
 #include<math.h>
 
-int main() {
-  
+int main() 
+
+{  
   // Conduct IT support
   std::string on_off_attempt;
   std::cout << "Hello. IT.\n";
