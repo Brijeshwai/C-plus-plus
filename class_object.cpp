@@ -4,6 +4,7 @@
 #include <iostream>
 #include <algorithm>
 #include <cassert>
+#include<math.h>
 using namespace std;
 
 class Student{
