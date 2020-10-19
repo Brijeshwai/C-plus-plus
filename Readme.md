@@ -3,7 +3,7 @@
 
 # My First Hactoberfest.😊
 
-## My First Program
+##  Program
 
 `#include<iostream>`
 
