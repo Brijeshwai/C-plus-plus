@@ -2,6 +2,7 @@
 #include<math.h>
 
 using namespace std;
+
 	enum day{mon,tue,wed,thur,fri,sat,sun};
 int main()
 {
