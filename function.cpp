@@ -2,7 +2,7 @@
 #include<math.h>
 
 using namespace std;
-
+//subtractio function....
 int subtraction (int a, int b)
 {
   int r;
