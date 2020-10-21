@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Brijeshwai 
-ret2jazzy
-/
-Hackerrank-30-days-of-Code-Cpp
-0
-36
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Hackerrank-30-days-of-Code-Cpp/Solutions/Day-15.cpp
-
-drigg3r Create Day-15.cpp
-Latest commit 0f30565 on Sep 26, 2016
- History
- 0 contributors
-60 lines (55 sloc)  1.14 KB
-  
 #include <iostream>
 #include <cstddef>
 using namespace std;	
