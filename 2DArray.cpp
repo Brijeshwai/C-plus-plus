@@ -1,11 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-/*
-    *
-    * Prosen Ghosh
-    * American International University - Bangladesh (AIUB)
-    *
-*/
+
 int main(){
 
     int ar[6][6],maxSum = -36985247;
