@@ -15,7 +15,6 @@ class Calculator{
         return pow(a, b);
     }
 };
-//Write your code here
 
 int main()
 {
