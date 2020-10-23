@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// Complete the factorial function below.
 int factorial(int n) {
 {
     if(n == 1)
