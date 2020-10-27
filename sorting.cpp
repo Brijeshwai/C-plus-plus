@@ -23,7 +23,6 @@
 
 using namespace std;
 
-
 int main(){
     int n;
     size_t swap_count = 0;
