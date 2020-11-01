@@ -17,7 +17,7 @@ class Node
 };
 class Solution{
     public:
-	Node* removeDuplicates(Node *head)
+Node* removeDuplicates(Node *head)
 {
     if (!head)
         return head;
@@ -32,6 +32,7 @@ class Solution{
     
     return head;
 }
+
           Node* insert(Node *head,int data)
           {
                Node* p=new Node(data);
@@ -80,4 +81,4 @@ int main()
 
 	mylist.display(head);
 		
-} 
+}
