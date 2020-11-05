@@ -32,10 +32,8 @@ int main() {
     for(int i = 0; i < n; i++){
         s[i].input();
     }
-
     
     int kristen_score = s[0].calculateTotalScore();
-
     
     int count = 0; 
     for(int i = 1; i < n; i++){
@@ -44,7 +42,6 @@ int main() {
             count++;
         }
     }
-
     
     cout << count;
     
