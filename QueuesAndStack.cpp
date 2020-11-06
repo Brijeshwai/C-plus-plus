@@ -25,11 +25,11 @@ class Solution {
 };
 
 int main() {
-    // read the string s.
+    
     string s;
     getline(cin, s);
     
-  	// create the Solution class object p.
+  	
     Solution obj;
     
     // push/enqueue all the characters of string s to stack.
