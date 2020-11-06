@@ -6,7 +6,7 @@ using namespace std;
 
 class Solution {
   public:
-    //Write your code here
+    
     void pushCharacter(const char c_) { _s.push(c_); }
     void enqueueCharacter(const char c_) { _q.push(c_); }
     char popCharacter() {
