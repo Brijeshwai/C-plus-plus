@@ -32,7 +32,7 @@ int main() {
   	
     Solution obj;
     
-    // push/enqueue all the characters of string s to stack.
+    
     for (int i = 0; i < s.length(); i++) {
         obj.pushCharacter(s[i]);
         obj.enqueueCharacter(s[i]);
