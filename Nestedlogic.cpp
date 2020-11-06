@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+       
     int actual_dd, actual_mm, actual_yy;
     int expected_dd, expected_mm, expected_yy;
     
