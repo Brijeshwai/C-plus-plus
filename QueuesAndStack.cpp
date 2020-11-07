@@ -51,7 +51,7 @@ int main() {
         }
     }
     
-    // finally print whether string s is palindrome or not.
+    
     if (isPalindrome) {
         cout << "The word, " << s << ", is a palindrome.";
     } else {
