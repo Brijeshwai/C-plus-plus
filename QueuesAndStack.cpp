@@ -27,11 +27,10 @@ class Solution {
 int main() {
     
     string s;
-    getline(cin, s);
-    
+    getline(cin, s);    
   	
     Solution obj;
-    
+   
     
     for (int i = 0; i < s.length(); i++) {
         obj.pushCharacter(s[i]);
