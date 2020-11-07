@@ -40,7 +40,7 @@ int main() {
     
     bool isPalindrome = true;
     
-    // pop the top character from stack.
+    
     // dequeue the first character from queue.
     // compare both the characters.
     for (int i = 0; i < s.length() / 2; i++) {
