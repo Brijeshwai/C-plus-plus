@@ -33,7 +33,7 @@ public:
 class TestDataUniqueValues {
 public:
     static vector<int> get_array() {
-        // complete this function
+       
         vector<int> v;
         v.push_back(1);
         v.push_back(2);
