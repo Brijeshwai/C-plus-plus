@@ -23,7 +23,7 @@ int minimum_index(vector<int> seq) {
 class TestDataEmptyArray {
 public:
     static vector<int> get_array() {
-        // complete this function
+        
     vector<int> v;
         return v;
     }
