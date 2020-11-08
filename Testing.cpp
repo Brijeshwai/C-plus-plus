@@ -61,7 +61,7 @@ public:
     }
 
     static int get_expected_result() {
-        // complete this function
+        
          vector<int> v = get_array();
         int in = minimum_index(v);
         return in;
