@@ -43,11 +43,6 @@ class MyBook : public Book {
   private:
     int price;
 };
-// Write your MyBook class here
-
-    //   Class Constructor
-    //   
-    //   Parameters:
     
  
 
