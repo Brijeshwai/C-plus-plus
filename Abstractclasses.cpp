@@ -54,9 +54,7 @@ class MyBook : public Book {
     //
     // Write your constructor here
     
-    
-    //   Function Name: display
-    //   Print the title, author, and price in the specified format.
+ 
 
 
 int main() {
