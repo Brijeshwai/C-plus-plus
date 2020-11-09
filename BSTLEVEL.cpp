@@ -48,7 +48,7 @@ class Solution{
     queue<Node *> _q;
 
 
-};//End of Solution
+};
 int main(){
     Solution myTree;
     Node* root=NULL;
