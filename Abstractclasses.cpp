@@ -48,11 +48,6 @@ class MyBook : public Book {
     //   Class Constructor
     //   
     //   Parameters:
-    //   title - The book's title.
-    //   author - The book's author.
-    //   price - The book's price.
-    //
-    // Write your constructor here
     
  
 
