@@ -43,9 +43,6 @@ class MyBook : public Book {
   private:
     int price;
 };
-    
- 
-
 
 int main() {
 string title,author;
