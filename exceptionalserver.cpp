@@ -4,6 +4,7 @@
 #include <stdexcept>
 #include <vector>
 #include <cmath>
+
 using namespace std;
 
 class Server 
