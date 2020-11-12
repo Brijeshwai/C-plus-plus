@@ -39,7 +39,6 @@ int main()
 	while(T--) {
 		long long A, B;
 		cin >> A >> B;
-
 		
         try 
         {
