@@ -3,6 +3,8 @@
 #include<iostream>
 #include<math.h>
 
+using namespace std;
+
 int main(int argc, char const *argv[])
 {
 	char x=20,y;
