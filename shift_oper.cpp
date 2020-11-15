@@ -1,6 +1,8 @@
 //left shift(<<) operator and right shift(>>) operator
+
 #include<iostream>
 #include<math.h>
+
 int main(int argc, char const *argv[])
 {
 	char x=20,y;
