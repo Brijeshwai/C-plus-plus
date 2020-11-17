@@ -4,7 +4,7 @@
 #include <exception>
 using namespace std;
 
-/* Define the exception here */
+
 
 class BadLengthException {
     private: 
