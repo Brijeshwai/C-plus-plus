@@ -5,7 +5,6 @@
 using namespace std;
 
 
-
 class BadLengthException {
     private: 
         int n;
