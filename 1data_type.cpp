@@ -14,7 +14,7 @@ int main() {
     double d2;
     string s2;
 
-    // Read and save an integer, double, and String to your variables.
+    
     string tmp;
 
     getline(cin, tmp);
