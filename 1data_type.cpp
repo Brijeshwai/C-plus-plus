@@ -31,7 +31,7 @@ int main() {
     // Print the sum of the double variables on a new line.
     printf("%.1f\n", d + d2);
 
-    // Concatenate and print the String variables on a new line
+    
     
     cout << s + s2 << endl;
 
