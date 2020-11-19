@@ -32,7 +32,7 @@ int main() {
     printf("%.1f\n", d + d2);
 
     // Concatenate and print the String variables on a new line
-    // The 's' variable above should be printed first.
+    
     cout << s + s2 << endl;
 
     return 0;
