@@ -28,7 +28,7 @@ int main() {
     
     printf("%i\n", i + i2);
 
-    // Print the sum of the double variables on a new line.
+    
     printf("%.1f\n", d + d2);
 
     
