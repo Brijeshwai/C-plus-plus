@@ -3,8 +3,7 @@ using namespace std;
 
     
     
-    *
-*/
+    
 int main(){
 
     int ar[6][6],maxSum = -36985247;
