@@ -2,7 +2,7 @@
 using namespace std;
 
     
-    * American International University - Bangladesh (AIUB)
+    
     *
 */
 int main(){
