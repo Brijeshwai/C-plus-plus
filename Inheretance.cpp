@@ -36,7 +36,7 @@ class Student :  public Person{
             
         }
                        
-  		// Write char calculate()
+  	
         char
         calculate (
             void
