@@ -23,7 +23,7 @@ class Student :  public Person{
 	private:
 		vector<int> testScores;  
 	public:
-  		// Write your constructor
+  		
         Student (
             string firstName_,
             string lastName_,
