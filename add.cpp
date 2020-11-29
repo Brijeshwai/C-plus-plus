@@ -18,11 +18,12 @@ int main()
 	int n1,n2,sum;	
 	cout<<"enter two number"<<endl;
 	cin>>n1>>n2;
+	
 	switch(choice)
 	{
 		case 1:
 		sum=n1+n2;
-		cout<<"addition\n"<<sum<<endl;
+		cout<<"Addition\n"<<sum<<endl;
 		break;
 		
 		case 2:
