@@ -11,6 +11,7 @@ int main ()
     cout << "Enter text: ";
     getline (cin,str);
     cout << "You entered: " << str << '\n';
-  } while (str != "goodbye");
+  } 
+  while (str != "goodbye");
   return 0;
 }
