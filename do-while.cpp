@@ -12,4 +12,5 @@ int main ()
     getline (cin,str);
     cout << "You entered: " << str << '\n';
   } while (str != "goodbye");
+  return 0;
 }
