@@ -8,7 +8,6 @@
 
    int m,n,sum=0;
 
-
     cout<<"enter a number:-";   
 
    cin>>n;
