@@ -1,6 +1,8 @@
+#include<iostream>
 #include<stdio.h>
 
 using namespace std;
+
 int main()
 {
 	int r,c,i,j;
@@ -8,8 +10,9 @@ int main()
 	{
 		for(c=1;c<=r;c++)
 		{
-			printf("* ");
+			cout<<"* ";
 	    }
-			printf("\n");
+			cout<<"\n";
 	}
+	return 0;
 }
