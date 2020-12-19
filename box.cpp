@@ -4,40 +4,28 @@
 using namespace std;
 
 class Box
-
-
+    
 {
-
 
     private:
 
-
         int l,b,h;
-
-
-    
-
 
     public:
 
 
         Box()
 
-
         {
 
-
             l = b = h = 0;
-
 
         }
 
 
         Box(int length,int breadth,int height)
 
-
         {
-
 
             l = length;
 
@@ -47,15 +35,11 @@ class Box
 
             h = height;
 
-
         }
-
 
         Box(const Box& B)
 
-
         {
-
 
             l = B.l;
 
