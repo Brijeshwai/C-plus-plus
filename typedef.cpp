@@ -1,6 +1,7 @@
 #include <iostream.h>
 
 using namespace std;
+
 typedef int marks;
 
 int main()
@@ -10,5 +11,6 @@ int main()
 	m2=40;
 	m3=80;
 	cout<<m1<<endl;
+	
 	return 0;
 }
