@@ -3,8 +3,8 @@
 #include <vector>
 #include <iostream>
 #include <algorithm>
-using namespace std;
 
+using namespace std;
 
 int main() {
     vector<int>v;
